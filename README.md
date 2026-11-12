@@ -26,7 +26,7 @@ Aap apne bot ko in free/cloud hosting platforms par ek click me deploy kar sakte
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/APKA_GITHUB_USERNAME/riseuserbot)
 
 ### 2. Render
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/APKA_GITHUB_USERNAME/riseuserbot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/RiseOwnerrr/Rise-Userbot.git)
 
 ### 3. Heroku
 [![Deploy to Heroku](https://www.heroku.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/APKA_GITHUB_USERNAME/riseuserbot)
