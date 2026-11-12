@@ -1,33 +1,32 @@
-# Rise-Userbot
-<halign="center">
-
 # ⚡ Rise UserBot
 
-Ek lightweight Telegram UserBot jise aap easily deploy kar sakte hain. Isme Member Tagging aur Broadcasting jaise features shamil hain.
-
-</halign>
+Ek lightweight aur powerful Telegram UserBot jisme Member Tagging (`.tagall`) aur Broadcasting (`.broadcast`) jaise features shamil hain.
 
 ---
 
 ## 🚀 Features
-- **`.tagall`**: Group ke sabhi members ko mention karne ke liye.
-- **`.broadcast`**: Kisi bhi message ko multiple groups me broadcast karne ke liye.
+- **`.tagall`**: Group ke sabhi active members ko tag/mention karne ke liye.
+- **`.broadcast`**: Kisi bhi message ko multiple chats me broadcast karne ke liye.
 
 ---
 
 ## 🛠️ Required Environment Variables
-Aapko deployment ke waqt yeh variables set karne honge:
-1. `API_ID` - Aapki Telegram API ID
-2. `API_HASH` - Aapki Telegram API Hash
-3. `STRING_SESSION` - Aapka Pyrogram String Session
+Deployment ke waqt aapko yeh 3 variables zaroor set karne honge:
+1. `API_ID` ➔ Aapki Telegram API ID
+2. `API_HASH` ➔ Aapki Telegram API Hash
+3. `STRING_SESSION` ➔ Aapka Pyrogram String Session
 
 ---
 
-## ☁️ Deploy to Koyeb
+## ☁️ One-Click Deployment
 
-Aap is bot ko ek click me Koyeb par deploy kar sakte hain:
+Aap apne bot ko in free/cloud hosting platforms par ek click me deploy kar sakte hain:
 
+### 1. Koyeb (Recommended & Free)
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/APKA_GITHUB_USERNAME/riseuserbot)
 
-*(Note: Upar wale link me `APKA_GITHUB_USERNAME` ki jagah apna actual GitHub username daal dena taaki button sahi repo par le jaye.)*
+### 2. Render
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/APKA_GITHUB_USERNAME/riseuserbot)
 
+### 3. Heroku
+[![Deploy to Heroku](https://www.heroku.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/APKA_GITHUB_USERNAME/riseuserbot)
